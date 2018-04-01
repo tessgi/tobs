@@ -21,4 +21,4 @@ class Highlight:
         END = '\033[0m'
 
 # this needs to come after the Highlight import
-from .tobs import tobs
+from .tobs import tobs, Observable
